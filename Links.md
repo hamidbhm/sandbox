@@ -2,6 +2,20 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-07 20:26 IR
+- 🗜️ [AdsPower-Global-8.4.3-x64.deb.zip](https://github.com/RexDoesntCode/sandbox/raw/main/dl/AdsPower-Global-8.4.3-x64.deb.zip) `16.5MB`
+
+- 🗜️ [AdsPower-Global-8.4.3-x64.deb.z01](https://github.com/RexDoesntCode/sandbox/raw/main/dl/AdsPower-Global-8.4.3-x64.deb.z01) `95.0MB`
+
+- 🗜️ [AdsPower-Global-8.4.3-x64.deb.z02](https://github.com/RexDoesntCode/sandbox/raw/main/dl/AdsPower-Global-8.4.3-x64.deb.z02) `95.0MB`
+
+- 🗜️ [AdsPower-Global-8.4.3-x64.deb.z03](https://github.com/RexDoesntCode/sandbox/raw/main/dl/AdsPower-Global-8.4.3-x64.deb.z03) `95.0MB`
+
+- 🗜️ [AdsPower-Global-8.4.3-x64.deb.zip](https://github.com/RexDoesntCode/sandbox/raw/main/dl/AdsPower-Global-8.4.3-x64.deb.zip) `16.5MB`
+
+---
+
+
 ### 📅 2026-05-07 06:50 IR
 - 🗜️ [MasterDnsVPN_Client_Linux_AMD64.zip](https://github.com/RexDoesntCode/sandbox/raw/main/dl/MasterDnsVPN_Client_Linux_AMD64.zip) `3.7MB`
 
