@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-07 06:50 IR
+- 🗜️ [MasterDnsVPN_Client_Linux_AMD64.zip](https://github.com/RexDoesntCode/sandbox/raw/main/dl/MasterDnsVPN_Client_Linux_AMD64.zip) `3.7MB`
+
+---
+
+
 ### 📅 2026-05-03 19:16 IR
 - 🗜️ [MasterDnsVPN_Client_Linux_AMD64.zip](https://github.com/RexDoesntCode/sandbox/raw/main/dl/MasterDnsVPN_Client_Linux_AMD64.zip) `3.7MB`
 
