@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 14:31 IR
+- 🗜️ [psiphonlinuxgui_1.4.0_amd64.deb.zip](https://github.com/RexDoesntCode/sandbox/raw/main/dl/psiphonlinuxgui_1.4.0_amd64.deb.zip) `2.5MB`
+
+- 🗜️ [psiphonlinuxgui_1.4.0_amd64.deb.z01](https://github.com/RexDoesntCode/sandbox/raw/main/dl/psiphonlinuxgui_1.4.0_amd64.deb.z01) `95.0MB`
+
+- 🗜️ [psiphonlinuxgui_1.4.0_amd64.deb.zip](https://github.com/RexDoesntCode/sandbox/raw/main/dl/psiphonlinuxgui_1.4.0_amd64.deb.zip) `2.5MB`
+
+---
+
+
 ### 📅 2026-05-12 10:37 IR
 - 📱 [mhrv-rs-android-universal-v1.9.22.apk](https://github.com/RexDoesntCode/sandbox/raw/main/dl/mhrv-rs-android-universal-v1.9.22.apk) `41.1MB`
 
